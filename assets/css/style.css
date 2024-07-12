@@ -1,0 +1,8 @@
+.content{
+    text-align: center;
+}
+
+h2.remove-border:after{
+    border-radius: 0;
+    width: 0;
+}
